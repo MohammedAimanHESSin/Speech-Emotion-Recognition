@@ -30,3 +30,12 @@ We will use CREMA dataset that is available at the following **[link](https://ww
 - 1D Model(ZCR):
 
 - 2D Model(melspectrogram):
+
+## Authors
+- **[Moahmmed Aiman](https://github.com/MohammedAimanHESSin)**
+- **[Osama Sherif](https://github.com/kevinwairi)**
+- **[Abdulrahman Habib](https://github.com/habiib1999)**
+- **[Ahmed Ashraf](https://github.com/habiib1999)**
+
+---
+_This README was generated with ❤️ by [Moahmmed Aiman](https://github.com/MohammedAimanHESSin)_
