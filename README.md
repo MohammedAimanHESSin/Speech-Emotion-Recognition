@@ -1,5 +1,5 @@
 # Speech-Emotion-Recognition
-We definespeech emotion recognition (SER) systems as a collection of methodologies that
+We define speech emotion recognition (SER) systems as a collection of methodologies that
 process and classify speech signals to detect the embedded emotions.
 
 ## Dataset
@@ -22,14 +22,13 @@ We will use CREMA dataset that is available at the following **[link](https://ww
 ## Results
 
 ### F1 and Recall
-- 1D Model(ZCR):
+- 1D Model(ZCR): F1: 0.71   | Recall: 0.70 |   Precision: 0.70
 
-- 2D Model(melspectrogram):
+- 2D Model(melspectrogram):  F1: 0.51     |   Recall 0.30  |   Precision:   0.28
 
 ### Confusion matrix
-- 1D Model(ZCR):
-
-- 2D Model(melspectrogram):
+  ![This is an image](https://github.com/MohammedAimanHESSin/Speech-Emotion-Recognition/blob/main/results-pics/1d.PNG) 
+  ![This is an image](https://github.com/MohammedAimanHESSin/Speech-Emotion-Recognition/blob/main/results-pics/2d.PNG) 
 
 ## Authors
 - **[Moahmmed Aiman](https://github.com/MohammedAimanHESSin)**
@@ -38,4 +37,4 @@ We will use CREMA dataset that is available at the following **[link](https://ww
 - **[Ahmed Ashraf](https://github.com/habiib1999)**
 
 ---
-_This README was generated with ❤️ by [Moahmmed Aiman](https://github.com/MohammedAimanHESSin)_
+_This README made with ❤️ by [Moahmmed Aiman](https://github.com/MohammedAimanHESSin)_
